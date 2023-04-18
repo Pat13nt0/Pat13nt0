@@ -16,7 +16,7 @@
 
 * 🔭 I’m currently working on getting PNPT .
 
-* Practicing touch typing, current record 159 WPm.
+* Practicing touch typing, current record 159 Wpm.
 
 * 💬 Ask me about : Why are we afraid to have Hope.
 
