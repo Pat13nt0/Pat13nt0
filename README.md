@@ -22,7 +22,6 @@
 
 * ⚡ Check out my blog : https://medium.com/@Pat13nt0
 
-* 📫 Reach me on Discord : Pat13nt0#0376
 
 <!--
 **Pat13nt0/Pat13nt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
