@@ -6,7 +6,7 @@
 ## 🎆 I'm a Self Learned Hacker | CTF Player
 <p1>
 
-  <img height="230" width="230" align="right" src="https://github.com/Pat13nt0/Pat13nt0/blob/main/code.gif" > 
+  <img height="230" width="230" align="right" src="https://github.com/N7mO/N7mO/blob/main/code.gif" > 
   
 </p1>
 
