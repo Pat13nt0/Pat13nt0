@@ -12,9 +12,9 @@
 
 
 
-* 🌱 I’m currently learning Bash and Powershell
+* 🌱 I’m currently learning Networking and C
 
-* 🔭 I’m currently working on getting PNPT .
+* 🔭 I’m currently working on getting CCNA .
 
 * Practicing touch typing, current record 159 Wpm.
 
