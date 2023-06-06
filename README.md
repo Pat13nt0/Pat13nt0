@@ -20,7 +20,7 @@
 
 * 💬 Ask me about : Why are we afraid to have Hope.
 
-* ⚡ Check out my blog : https://medium.com/@Pat13nt0
+
 
 
 <!--
