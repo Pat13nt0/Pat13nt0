@@ -12,9 +12,9 @@
 
 
 
-* 🌱 I’m currently learning Networking and C
+* 🌱 I’m currently learning Low level Linux stuff 
 
-* 🔭 I’m currently working on getting CCNA .
+* 🔭 I’m currently working on getting PNPT .
 
 * Practicing touch typing, current record 159 Wpm.
 
